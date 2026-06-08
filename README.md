@@ -1,6 +1,14 @@
-# Hi, I'm Galviger.
-I'm a lazy programmer, who only learns things he needs to at the moment.
-My current projects are all focused on password grabbing, myself and my consenting friends, of course
-Once I finish a project, I will post it here for you to download.
-I make projects in python, but also in other languages, when I need to.
-If you have any project ideas, dm me on my twitter, I'd love to have some more projects to work on.
+Hi, I'm Jan.
+
+I'm a student of Automation at the University of Pardubice interested in software development, embedded systems, automation and AI-assisted development.
+
+I enjoy building practical projects in Python and experimenting with new technologies.
+
+Technologies:
+- Python
+- Arduino / Embedded
+- Git & GitHub
+- HTML / CSS
+- AI tools (ChatGPT, Claude)
+
+Currently exploring automation, web applications and AI-powered workflows.
